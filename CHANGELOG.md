@@ -2,7 +2,7 @@
 
 Date format (mm/dd/yyyy)
 
-## v1.0.4(04/17/2026)
+## v1.0.4 (04/17/2026)
 [Download firmware](https://github.com/kennethmackissack-create/ender-3-crtouch-4.2.7-firmware/releases/tag/v1.0.4)
 - Removed Deviation Junction
 - Added Z Probe Wizard
